@@ -1,0 +1,15 @@
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.exe
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.deps.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.runtimeconfig.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\bin\Debug\net6.0\OOP_Practice.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.csproj.AssemblyReference.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.AssemblyInfoInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.AssemblyInfo.cs
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.csproj.CoreCompileInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\refint\OOP_Practice.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\OOP_Practice.genruntimeconfig.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\OOP_Practice\OOP_Practice\obj\Debug\net6.0\ref\OOP_Practice.dll
