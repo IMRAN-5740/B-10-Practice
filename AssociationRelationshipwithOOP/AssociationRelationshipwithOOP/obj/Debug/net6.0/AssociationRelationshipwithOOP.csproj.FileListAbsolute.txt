@@ -1,0 +1,15 @@
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.csproj.AssemblyReference.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.AssemblyInfoInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.AssemblyInfo.cs
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.csproj.CoreCompileInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\bin\Debug\net6.0\AssociationRelationshipwithOOP.exe
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\bin\Debug\net6.0\AssociationRelationshipwithOOP.deps.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\bin\Debug\net6.0\AssociationRelationshipwithOOP.runtimeconfig.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\bin\Debug\net6.0\AssociationRelationshipwithOOP.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\bin\Debug\net6.0\AssociationRelationshipwithOOP.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\refint\AssociationRelationshipwithOOP.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\AssociationRelationshipwithOOP.genruntimeconfig.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\AssociationRelationshipwithOOP\obj\Debug\net6.0\ref\AssociationRelationshipwithOOP.dll
