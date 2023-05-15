@@ -1,0 +1,15 @@
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\bin\Debug\net6.0\Polyorphism_Abstraction.exe
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\bin\Debug\net6.0\Polyorphism_Abstraction.deps.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\bin\Debug\net6.0\Polyorphism_Abstraction.runtimeconfig.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\bin\Debug\net6.0\Polyorphism_Abstraction.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\bin\Debug\net6.0\Polyorphism_Abstraction.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.csproj.AssemblyReference.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.AssemblyInfoInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.AssemblyInfo.cs
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.csproj.CoreCompileInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\refint\Polyorphism_Abstraction.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\Polyorphism_Abstraction.genruntimeconfig.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Polyorphism_Abstraction\obj\Debug\net6.0\ref\Polyorphism_Abstraction.dll
