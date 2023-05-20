@@ -22,7 +22,20 @@ obj2.ShippingAddress = "Bashundhara, Dhaka, Bangladesh";
 fileContainer.Add(obj1);
 fileContainer.Add(obj2);
 
+
 foreach(IFileInfo fileInfo in fileContainer)
 {
     Console.WriteLine(fileInfo.GetInfo());
 }
+
+
+
+
+
+
+
+
+
+
+
+
