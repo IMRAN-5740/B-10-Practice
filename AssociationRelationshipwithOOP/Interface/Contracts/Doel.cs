@@ -1,11 +1,11 @@
-﻿using Interface.DeclareInterface;
+﻿using InterfaceExample.DeclareInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interface.Abstract
+namespace InterfaceExample.Contracts
 {
     public class Doel :Bird, IFlyable
     {

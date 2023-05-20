@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Asp Dot Net Classes B-10\\B-10 Practice\\AssociationRelationshipwithOOP\\Interface\\Interface.csproj",
-      "projectName": "Interface",
-      "projectPath": "E:\\Asp Dot Net Classes B-10\\B-10 Practice\\AssociationRelationshipwithOOP\\Interface\\Interface.csproj",
+      "projectUniqueName": "E:\\Asp Dot Net Classes B-10\\B-10 Practice\\AssociationRelationshipwithOOP\\Interface\\InterfaceExample.csproj",
+      "projectName": "InterfaceExample",
+      "projectPath": "E:\\Asp Dot Net Classes B-10\\B-10 Practice\\AssociationRelationshipwithOOP\\Interface\\InterfaceExample.csproj",
       "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
       "outputPath": "E:\\Asp Dot Net Classes B-10\\B-10 Practice\\AssociationRelationshipwithOOP\\Interface\\obj\\",
       "projectStyle": "PackageReference",

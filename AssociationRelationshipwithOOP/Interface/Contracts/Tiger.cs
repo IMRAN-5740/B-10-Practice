@@ -4,20 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interface.Abstract
+namespace InterfaceExample.Contracts
 {
     public class Tiger : Animal
     {
-        public override string Eat()
-        {
-            throw new NotImplementedException();
-        }
-
-        public override string Move()
-        {
-            throw new NotImplementedException();
-        }
-
+       
         public override string Speak()
         {
             return "TIger is Speaking----Halum Halum";

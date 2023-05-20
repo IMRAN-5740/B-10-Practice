@@ -4,19 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interface.Abstract
+namespace InterfaceExample.Contracts
 {
     public abstract class Animal
     {
-        public  string Eat()
-        {
-            return "";
-        }
-
-        public  string Move()
-        {
-            return "";
-        }
+       
 
         public abstract string Speak();
 

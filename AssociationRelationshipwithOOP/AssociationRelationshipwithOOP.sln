@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssociationRelationshipwith
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polyorphism_Abstraction", "Polyorphism_Abstraction\Polyorphism_Abstraction.csproj", "{CE55BF70-89F6-4699-8FE2-793CF4E3B0D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{892158B0-796F-427C-87BB-92365DD65C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceExample", "Interface\InterfaceExample.csproj", "{892158B0-796F-427C-87BB-92365DD65C05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

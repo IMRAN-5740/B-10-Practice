@@ -1,0 +1,15 @@
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\bin\Debug\net6.0\InterfaceExample.exe
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\bin\Debug\net6.0\InterfaceExample.deps.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\bin\Debug\net6.0\InterfaceExample.runtimeconfig.json
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\bin\Debug\net6.0\InterfaceExample.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\bin\Debug\net6.0\InterfaceExample.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.csproj.AssemblyReference.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.AssemblyInfoInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.AssemblyInfo.cs
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.csproj.CoreCompileInputs.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\refint\InterfaceExample.dll
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.pdb
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\InterfaceExample.genruntimeconfig.cache
+E:\Asp Dot Net Classes B-10\B-10 Practice\AssociationRelationshipwithOOP\Interface\obj\Debug\net6.0\ref\InterfaceExample.dll
